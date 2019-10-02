@@ -1,7 +1,7 @@
 # VideoAnalyzerTool
 
 
-####Graphical User Interface to visualize and analyze the data
+#### Graphical User Interface to visualize and analyze the data
 
 This GUI was a part of the project "Activity Recognition to detect actions in industries using Deep Learning"
 The training data provided by the company was in Excel (xlsv) format where the annotations and the respective class label (the actions performed by the operator) were mentioned as the field variables. The name of the base video clip along with few other specifications (like date & time, video quality, video length) about the video were also specified in the Excel sheet. In order to make the process of splitting the video clips into respective class directories more advantageous and time-saving, we employed the benefits of python and few other open source packages (like Numpy, Scipy, Moviepy) to create a custom automated program.
